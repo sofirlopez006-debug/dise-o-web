@@ -40,8 +40,10 @@ article:last-child {
      text-align: center;
 }
 .botones
-{ margin-bottom: 60px;
-  margin-right: 70px;
+{ display: flex;
+  justify-content: right;
+  gap: 30px;
+  align-items: center;
 }
 
 footer
