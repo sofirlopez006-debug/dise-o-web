@@ -45,7 +45,11 @@ article:last-child {
   gap: 30px;
   align-items: center;
 }
-
+header{
+  display: flex;
+  justify-content: space-between;
+  padding:0  1%; 
+}
 footer
 {
   margin-top: 40px;
