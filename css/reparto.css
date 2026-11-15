@@ -10,4 +10,9 @@
 {
     margin-top: 5%;
 }
-
+main {
+    width: 98%;
+    max-width: 1600px;
+    margin-inline: auto;
+    padding-top: 150px;
+}
