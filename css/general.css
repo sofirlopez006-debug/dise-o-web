@@ -34,7 +34,7 @@ header {
 
 .titulo-grande {
     position: absolute;
-    top: 69%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 5;
@@ -183,5 +183,3 @@ footer
     font-size: 16px;
 
 }
-
-

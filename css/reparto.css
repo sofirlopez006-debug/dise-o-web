@@ -1,18 +1,21 @@
-*{
-    margin: 0;
-}
+
 .actores
 {
-    margin: 0 5%;
-   
+  text-align: center;
+  display: block;
 }
-.actores h2
-{
-    margin-top: 5%;
+
+.actores p {
+  max-width: 70%;
 }
+
+
 main {
-    width: 98%;
+    width: 100%;
     max-width: 1600px;
     margin-inline: auto;
     padding-top: 150px;
+}
+article h1{
+text-align: center;
 }
