@@ -6,9 +6,13 @@
 }
 
 .actores p {
-  max-width: 70%;
-}
+    max-width: 70%;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    text-align: justify;
+    text-align-last: center;
 
+}
 
 main {
     width: 100%;
@@ -18,4 +22,12 @@ main {
 }
 article h1{
 text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 40px;
+margin-bottom: 60px;
+}
+.actores img {
+  margin-top: 25px;
+margin-bottom: 25px;
+border-radius: 20px;
 }

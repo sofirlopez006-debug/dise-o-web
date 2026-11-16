@@ -7,3 +7,30 @@ main {
     margin-inline: auto;
     padding-top: 150px;
 }
+
+.carrusel {
+    display: flex;
+    gap: 25px;
+    overflow-x: auto;
+    padding: 20px;
+    scroll-behavior: smooth;
+}
+
+.tarjeta {
+  
+  flex: 0 0 50%;                
+  box-sizing: border-box;
+  border: 1px solid #045a79;
+  border-radius: 20px;
+  padding: 20px;
+
+}
+
+.tarjeta iframe {
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+}
+.explora {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
